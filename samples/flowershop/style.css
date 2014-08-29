@@ -1,0 +1,74 @@
+.header{
+	background-color: rgb(167,108,204);
+	/*box-shadow: 10px 10px 50px rgba(0,0,0,1);*/
+	font-size: 72;
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+}
+.headermenu{
+	background-color: rgb(105,69,128);
+	/*box-shadow: 10px 10px 50px rgba(0,0,0,1);*/
+	font-size: 72;
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+}
+
+.menubutton{
+	font-size: 48;
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+	background: rgb(57,37,69);
+	box-shadow: 10px 10px 50px rgba(0,0,0,1);
+}
+
+.itembox{
+	font-size: 17;
+	color: white;
+	font-family: 'Reenie Beanie', cursive;
+	background-color: rgb(167,108,204);
+	outline: black solid thin;
+
+	
+	
+}
+
+
+.itembox:hover{
+
+	-webkit-animation: myfirst 2s; /* Chrome, Safari, Opera */
+    animation: myfirst 2s;
+	
+	
+}
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    from {background: rgb(167,108,204);}
+    to {background: rgb(100,100,200);}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+    from {background: rgb(167,108,204);}
+    to {background: rgb(100,100,200);}
+}
+
+#itemboxleft{
+	float: left;
+}
+
+#itemboxcenter{
+	float: left;
+}
+
+#itemboxright{
+	float: left;
+}
+
+.menubutton:hover{
+	color: black;
+	background: white;
+	
+}
+

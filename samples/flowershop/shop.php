@@ -44,6 +44,176 @@
 	<p><a href="#" class="menubutton">Buy</a>
 	</center>
 </div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
 	
 	
 </body>

@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Spajder</title>
+		<title>Spaider</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -28,7 +28,7 @@
 				
 				<!-- Logo -->
 				<div id="logo">
-					<h1><a href="#">Spajder.se</a></h1>
+					<h1><a href="#">Spaider.se</a></h1>
 					<span>Vi skapar din hemsida.</span>
 				</div>
 				
@@ -53,12 +53,12 @@
 					<div id="content" class="8u skel-cell-important">
 						<section>
 							<header>
-								<h2>websitemakers.se!</h2>
+								<h2>Spaider.se!</h2>
 								<span class="byline">Påbörja din beställning!</span>
 							</header>
 							<a href="#" class="image full"><img src="images/keyboard.jpg" alt="" /></a>
 							
-
+							<!--
 							<form>
 							<p>Ditt förnamn: <br><input type="text" name="firstname"/>
 							<p>Ditt efternamn: <br><input type="text" name="lastname"/>
@@ -104,6 +104,17 @@
 							}
 							
 							?>
+							
+							!-->
+							
+							Vill du ha en hemsida?<br>
+							Maila oss så diskuterar vi din idé!<br><br><br>
+							<li>
+								<ul>sebastian.karlsson@spaider.se</ul>
+								<li>
+								<ul>robin.kangas@spaider.se</ul>
+							</li>
+							</li>
 						</section>
 					</div>
 					

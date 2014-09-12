@@ -45,13 +45,13 @@
 /* Chrome, Safari, Opera */
 @-webkit-keyframes myfirst {
     from {background: rgb(167,108,204);}
-    to {background: rgb(100,100,200);}
+    to {background: rgb(255,255,0);}
 }
 
 /* Standard syntax */
 @keyframes myfirst {
     from {background: rgb(167,108,204);}
-    to {background: rgb(100,100,200);}
+    to {background: rgb(255,255,10);}
 }
 
 #itemboxleft{

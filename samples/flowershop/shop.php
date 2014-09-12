@@ -14,7 +14,7 @@
 	<div align="center" class="headermenu">
 		<a href="index.php" class="menubutton">Home</a>
 		<a href="#" class="menubutton">Shop</a>
-		<a href="#" class="menubutton">Contact</a>
+		<a href="contact.php" class="menubutton">Contact</a>
 	</div>
 </header>
 	
@@ -214,7 +214,199 @@
 	<p><a href="#" class="menubutton">Buy</a>
 	</center>
 </div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Hepatica</h1>
+	<p><img src="images/hepatica.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
 	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>dandelion</h1>
+	<p><img src="images/dandelion.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Anemone</h1>
+	<p><img src="images/Anemone.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Waterlily</h1>
+	<p><img src="images/waterlily.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+	
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Hepatica</h1>
+	<p><img src="images/hepatica.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>dandelion</h1>
+	<p><img src="images/dandelion.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Anemone</h1>
+	<p><img src="images/Anemone.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Waterlily</h1>
+	<p><img src="images/waterlily.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Hepatica</h1>
+	<p><img src="images/hepatica.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>dandelion</h1>
+	<p><img src="images/dandelion.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Anemone</h1>
+	<p><img src="images/Anemone.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Waterlily</h1>
+	<p><img src="images/waterlily.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxleft">
+	<center>
+	<h1>Tulip</h1>
+	<p><img src="images/tulip.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>SunFlower</h1>
+	<p><img src="images/sunflower.jpeg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Hepatica</h1>
+	<p><img src="images/hepatica.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>dandelion</h1>
+	<p><img src="images/dandelion.JPG" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+
+
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Anemone</h1>
+	<p><img src="images/Anemone.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
+	
+	
+<div class="itembox" id="itemboxcenter">
+	<center>
+	<h1>Waterlily</h1>
+	<p><img src="images/waterlily.jpg" width="124px" height="124px">
+	<p><a href="#" class="menubutton">Buy</a>
+	</center>
+</div>
 	
 </body>
 	

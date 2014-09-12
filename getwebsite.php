@@ -36,7 +36,7 @@
 				<nav id="nav">
 					<ul>
 						<li ><a href="index.html">Hem</a></li>
-						<li ><a href="pricelist.html">Prislista</a></li>
+						<li ><a href="pricelist.html">Kostnader</a></li>
 						<li class="active"><a href="#">Skaffa websida!</a></li>
 						
 					</ul>
@@ -108,12 +108,8 @@
 							!-->
 							
 							Vill du ha en hemsida?<br>
-							Maila oss så diskuterar vi din idé!<br><br><br>
-							<li>
-								<ul>sebastian.karlsson@spaider.se</ul>
-								<li>
-								<ul>robin.kangas@spaider.se</ul>
-							</li>
+							Maila oss så kontaktar vi dig!<br><br><br>
+							<font color="blue">spaidercontact@gmail.com</font>
 							</li>
 						</section>
 					</div>
